@@ -1,0 +1,31 @@
+6
+0
+	Pat Haden
+	1978
+	90018
+	4 5 6 
+1
+	Chip Kelly
+	1995
+	90271
+	4 5 6
+2
+	John Harbaugh
+	1885
+	90089
+	4 5 6
+3
+	Max Nikias
+	1945
+	91103
+	0 1 2
+4
+	Jane Doe
+	1988
+	90007
+	0 1 2
+5
+	Lebron James
+	1900
+	90001
+	0 1 2
